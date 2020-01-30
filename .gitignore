@@ -1,0 +1,10 @@
+/vendor
+dist
+.vscode
+helpers/config/cyml.go
+templates/templates.go
+.envrc
+/doc/plantuml.jar
+
+/.idea
+.DS_Store
